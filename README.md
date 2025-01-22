@@ -58,7 +58,7 @@
 git clone https://github.com/elizaos/eliza-starter.git
 cd eliza-starter
 cp .env.example .env
-pnpm i && pnpm build && pnpm start
+pnpm i && pnpm build && pnpm star
 ```
 
 ### Manually Start Eliza (Only recommended if you know what you are doing)
